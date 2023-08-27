@@ -7,7 +7,7 @@ import { Route, Routes, useLocation, useParams } from 'react-router-dom'
 import Home from 'pages/Home'
 import Liked from 'pages/Liked'
 import { Container } from '@mui/material'
-
+import './container.scss'
 import Health from 'pages/Health'
 import Sport from 'pages/Sport'
 import Recipes from 'pages/Recipes'
@@ -64,7 +64,7 @@ const App = () => {
         <StyledEngineProvider injectFirst>
             <CssBaseline />
             <Header productsInCart={productsInCart} />
-            <Container sx={{ padding: '48px 0' }}>
+            <Container className="container" sx={{ padding: '48px 0' }}>
                 <AppContext.Provider value={contextValue}>
                     <Routes>
                         <Route

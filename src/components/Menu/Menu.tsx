@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { useAppSelector } from 'redux/hooks'
 import './Menu.scss'
-
+import 'Container/Header/Header.scss'
 type Props = {}
 
 const Menu = (props: Props) => {

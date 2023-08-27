@@ -15,6 +15,7 @@ const Liked = () => {
             <h2
                 style={{
                     textAlign: 'center',
+                    color: 'black',
                 }}
             >
                 Статті, що сподобалися

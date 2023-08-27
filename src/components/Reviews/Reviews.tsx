@@ -62,7 +62,7 @@ const Reviews = (props: Props) => {
     }
 
     return (
-        <div>
+        <div className="review">
             <Typography variant="h4" component={'h2'}>
                 Коментарі
             </Typography>
@@ -74,7 +74,7 @@ const Reviews = (props: Props) => {
                     }}
                     key={i}
                 >
-                    <CardContent>
+                    <CardContent className="rvw-content">
                         <div className="review-header">
                             <img
                                 src={photo}

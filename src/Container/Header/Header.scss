@@ -1,3 +1,32 @@
+/* Header.scss */
 .app-bar {
+    /* ваші поточні стилі для AppBar */
+    transition: position 0.3s ease;
+    background-color: black; /* Додайте анімацію для зміни позиції */
+}
+
+.app-bar.sticky {
+    color: black;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: white; /* Додайте фоновий колір, щоб AppBar був видимим при прокручуванні */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Додайте тінь для ефекту виділення */
+}
+.app-bar.sticky .sub-menu {
     background-color: white;
+    color: black;
+}
+.app-bar.sticky .menu-item {
+    background-color: white;
+    color: black;
+}
+.app-bar.sticky .menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: red;
+}
+.tool-bar {
+    display: flex;
+    justify-content: space-between; /* Рівномірний розподіл між лівим і правим елементами */
+    align-items: center; /* Вирівнювання по вертикалі */
 }

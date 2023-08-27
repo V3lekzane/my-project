@@ -3,13 +3,13 @@
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
-    background-color: white;
+    background-color: black;
 }
 
 .slider-container {
     position: relative;
     overflow: hidden;
-    background-color: white;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,18 +37,12 @@
     padding-bottom: 15px;
     padding-top: 15px;
 }
-
-.slider-buttons {
-    display: flex;
-    align-items: center;
-}
-
 .slider-button {
     padding: 5px 10px;
     border: none;
     cursor: pointer;
     margin: 0 10px;
-    background-color: white;
+    background-color: black;
 }
 .text {
     text-align: center;
