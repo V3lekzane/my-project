@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-project/static/css/main.26dd0daa.css",
-    "main.js": "/my-project/static/js/main.7b6e31d2.js",
-    "static/media/logo.png": "/my-project/static/media/logo.912c8b179e401a99c70b.png",
+    "main.css": "/my-project/static/css/main.63ded185.css",
+    "main.js": "/my-project/static/js/main.41e4f0c8.js",
+    "static/media/logo.png": "/my-project/static/media/logo.0060eab26c99d4be5a8c.png",
     "static/media/sport3.webp": "/my-project/static/media/sport3.f6bc469279aa8dda57fa.webp",
     "static/media/recipe1.webp": "/my-project/static/media/recipe1.84a35443a2e02c977597.webp",
     "static/media/recipe3.webp": "/my-project/static/media/recipe3.3953d8b856353e1a01a6.webp",
@@ -13,13 +13,13 @@
     "static/media/sport1.webp": "/my-project/static/media/sport1.0a37aaf50d03c0671c4c.webp",
     "static/media/health3.webp": "/my-project/static/media/health3.40cdfcb299af8e6dcade.webp",
     "index.html": "/my-project/index.html",
-    "static/media/arrow-left.webp": "/my-project/static/media/arrow-left.9316ade5cd6959714a87.webp",
-    "static/media/arrow-right.webp": "/my-project/static/media/arrow-right.a7087125b220284dbadd.webp",
-    "main.26dd0daa.css.map": "/my-project/static/css/main.26dd0daa.css.map",
-    "main.7b6e31d2.js.map": "/my-project/static/js/main.7b6e31d2.js.map"
+    "static/media/arrow-right.webp": "/my-project/static/media/arrow-right.6d7a45140016ba3d16c8.webp",
+    "static/media/arrow-left.webp": "/my-project/static/media/arrow-left.71d2c60e394722a0c4d3.webp",
+    "main.63ded185.css.map": "/my-project/static/css/main.63ded185.css.map",
+    "main.41e4f0c8.js.map": "/my-project/static/js/main.41e4f0c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.26dd0daa.css",
-    "static/js/main.7b6e31d2.js"
+    "static/css/main.63ded185.css",
+    "static/js/main.41e4f0c8.js"
   ]
 }
